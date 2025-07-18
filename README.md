@@ -39,7 +39,7 @@ A full-stack web application for sharing and discovering AI prompts with user au
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/gitbasitmalik/easy-prompt.git]
+git clone https://github.com/gitbasitmalik/easy-prompt.git
 cd easy-prompt
 ```
 
